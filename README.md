@@ -116,4 +116,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2685-first-completely-painted-row-or-column](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
