@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0216-combination-sum-iii) |
 | [0654-maximum-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0684-redundant-connection) |
 ## Two Pointers
 |  |
@@ -116,15 +118,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0684-redundant-connection) |
 ## Graph
