@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0684-redundant-connection) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,14 +121,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0684-redundant-connection) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
