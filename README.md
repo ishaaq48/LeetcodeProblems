@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
 | ------- |
