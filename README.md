@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0854-making-a-large-island) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
