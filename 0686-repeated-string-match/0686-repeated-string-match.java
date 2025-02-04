@@ -1,19 +1,15 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-        StringBuilder sb = new StringBuilder(a);
-        int count = 1; 
+        int lenA = a.length();
+        int lenB = b.length();
 
-        while(sb.length() < b.length()){
-            sb.append(a);
-            count++;
+        for(int i = 0;i < lenA; i++){
+            int j = 0;
+            while(j < lenB && a.charAt((i + j) % lenA) == b.charAt(j)){
+                j++;
+            } 
+            if(j == lenB) return (i + j + lenA - 1) / lenA;
         }
-
-        if(sb.indexOf(b) != -1) return count;
-
-        sb.append(a);
-        count++;
-
-        if(sb.indexOf(b) != -1) return count;
 
         return -1;
     }
