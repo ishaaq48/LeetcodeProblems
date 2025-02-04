@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0008-string-to-integer-atoi) |
 | [0131-palindrome-partitioning](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
+| [0686-repeated-string-match](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0207-course-schedule) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
