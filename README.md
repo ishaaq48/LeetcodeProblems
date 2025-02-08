@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [1364-tuple-with-same-product](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Counting
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0686-repeated-string-match) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
