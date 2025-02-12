@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Counting
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Ordered Set
 |  |
 | ------- |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3447-clear-digits) |
+## Sorting
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
