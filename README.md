@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0686-repeated-string-match) |
 | [1160-letter-tile-possibilities](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0216-combination-sum-iii) |
 | [1160-letter-tile-possibilities](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
