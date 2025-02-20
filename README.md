@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0854-making-a-large-island) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [1160-letter-tile-possibilities](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
