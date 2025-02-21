@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [1160-letter-tile-possibilities](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -143,11 +145,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0232-implement-queue-using-stacks) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
 |  |
