@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0086-partition-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
