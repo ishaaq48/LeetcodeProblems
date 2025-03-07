@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0654-maximum-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Stack
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -312,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0232-implement-queue-using-stacks) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
