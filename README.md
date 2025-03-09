@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3483-alternating-groups-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Hash Table
 |  |
@@ -329,4 +330,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
