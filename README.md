@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3429-special-array-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3483-alternating-groups-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3643-zero-array-transformation-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
 | ------- |
