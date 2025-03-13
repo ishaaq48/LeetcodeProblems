@@ -1,15 +1,40 @@
 class Solution {
     public int maximumCount(int[] nums) {
-        int neg = 0;
-        int pos = 0;
+        int lb = lowerBound(nums,0);
+        int ub = upperBound(nums,0);
 
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i] < 0)
-                neg++;
-            if(nums[i] > 0)
-                pos++;
+        return Math.max(lb, nums.length - ub);
+    }
+
+    public int lowerBound(int[] nums, int target){
+        int low = 0,high = nums.length;
+
+        while(low < high){
+            int mid = low + (high - low) / 2;
+
+            if(nums[mid] < target){
+                low = mid + 1;
+            } else {
+                high = mid;
+            }
         }
 
-        return Math.max(neg,pos);
+        return low;
+    }
+
+    public int upperBound(int[] nums, int target){
+        int low = 0,high = nums.length;
+
+        while(low < high){
+            int mid = low + (high - low) / 2;
+
+            if(nums[mid] <= target){
+                low = mid + 1;
+            } else {
+                high = mid;
+            }
+        }
+
+        return low;
     }
 }
