@@ -1,38 +1,29 @@
 class Solution {
-    public String pushDominoes(String dominoes) {
-        char[] dom = dominoes.toCharArray();
-        Queue<int[]> q = new LinkedList<>();
-
-        for(int i = 0; i < dom.length; i++) {
-            if(dom[i] != '.'){
-                q.add(new int[] {i, dom[i]});
+    public String pushDominoes(String s) {
+        s = "L" + s + "R";
+        StringBuilder res = new StringBuilder();
+        int prev = 0;
+        for (int curr = 1; curr < s.length(); ++curr) {
+            if (s.charAt(curr) == '.') continue;
+            int span = curr - prev - 1;
+            if (prev > 0)
+                res.append(s.charAt(prev));
+            if (s.charAt(prev) == s.charAt(curr)) {
+                for (int i = 0; i < span; ++i)
+                    res.append(s.charAt(prev));
+            } else if (s.charAt(prev) == 'L' && s.charAt(curr) == 'R') {
+                for (int i = 0; i < span; ++i)
+                    res.append('.');
+            } else {
+                for (int i = 0; i < span / 2; ++i)
+                    res.append('R');
+                if (span % 2 == 1)
+                    res.append('.');
+                for (int i = 0; i < span / 2; ++i)
+                    res.append('L');
             }
+            prev = curr;
         }
-
-        while(!q.isEmpty()) {
-            int[] curr = q.poll();
-            int i = curr[0];
-            char d = (char) curr[1];
-
-            if(d == 'L') {
-                if (i > 0 && dom[i - 1] == '.') {
-                    q.add(new int[] {i-1, 'L'});
-                    dom[i-1] = 'L';
-                }
-            }
-            else if(d == 'R') {
-                if(i + 1 < dom.length && dom[i + 1] == '.') {
-                    if(i + 2 < dom.length && dom[i + 2] == 'L'){
-                        q.poll();
-                    }
-                    else {
-                        q.add(new int[]{i + 1, 'R'});
-                        dom[i + 1] = 'R';
-                    }
-                }
-            }
-        }
-
-        return new String(dom);
+        return res.toString();
     }
 }
