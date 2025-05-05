@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0216-combination-sum-iii) |
 | [0493-reverse-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0493-reverse-pairs) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0868-push-dominoes](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
