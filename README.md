@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0060-permutation-sequence) |
+| [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0868-push-dominoes](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -430,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
