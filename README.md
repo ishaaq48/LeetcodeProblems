@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
