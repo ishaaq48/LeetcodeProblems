@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0868-push-dominoes](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
