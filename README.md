@@ -446,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
