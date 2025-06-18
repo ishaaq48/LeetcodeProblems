@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2792-neighboring-bitwise-xor](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3429-special-array-i) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1499-maximum-performance-of-a-team](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1499-maximum-performance-of-a-team) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [1499-maximum-performance-of-a-team](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1499-maximum-performance-of-a-team) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Queue
 |  |
 | ------- |
