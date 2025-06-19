@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-maximum-ascending-subarray-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0169-majority-element) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1499-maximum-performance-of-a-team](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1499-maximum-performance-of-a-team) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [1499-maximum-performance-of-a-team](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1499-maximum-performance-of-a-team) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Queue
