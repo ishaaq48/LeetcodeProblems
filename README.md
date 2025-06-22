@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0868-push-dominoes](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0868-push-dominoes) |
@@ -462,9 +466,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1258-article-views-i) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
