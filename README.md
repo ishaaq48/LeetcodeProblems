@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0039-combination-sum) |
+| [0064-minimum-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0090-subsets-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0695-max-area-of-island) |
