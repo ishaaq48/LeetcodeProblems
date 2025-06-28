@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1036-rotting-oranges](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1250-longest-common-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0169-majority-element) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1499-maximum-performance-of-a-team](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1499-maximum-performance-of-a-team) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0493-reverse-pairs) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 ## Data Stream
