@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1499-maximum-performance-of-a-team](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1499-maximum-performance-of-a-team) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
