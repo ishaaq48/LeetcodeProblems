@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3483-alternating-groups-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3483-alternating-groups-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3643-zero-array-transformation-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
+| [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2456-construct-smallest-number-from-di-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Queue
 |  |
 | ------- |
