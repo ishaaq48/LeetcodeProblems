@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1499-maximum-performance-of-a-team](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1499-maximum-performance-of-a-team) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1364-tuple-with-same-product) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2856-count-complete-subarrays-in-an-array) |
