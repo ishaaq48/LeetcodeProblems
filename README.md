@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1499-maximum-performance-of-a-team](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1499-maximum-performance-of-a-team) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1753-path-with-minimum-effort](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0854-making-a-large-island) |
+| [1753-path-with-minimum-effort](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Two Pointers
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 ## Depth-First Search
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1036-rotting-oranges](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
 |  |
@@ -405,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [1499-maximum-performance-of-a-team](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1499-maximum-performance-of-a-team) |
+| [1753-path-with-minimum-effort](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -442,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1753-path-with-minimum-effort](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
 ## Data Stream
