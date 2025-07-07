@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1036-rotting-oranges](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 ## Depth-First Search
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0854-making-a-large-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
