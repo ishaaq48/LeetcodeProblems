@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0493-reverse-pairs) |
