@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0118-pascals-triangle) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1499-maximum-performance-of-a-team](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1499-maximum-performance-of-a-team) |
