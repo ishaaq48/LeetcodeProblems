@@ -1,24 +1,27 @@
 class Solution {
-    public int minJump(int ind, int[] nums, int n,int[] dp){
-        if(ind >= n-1) return 0;
-        if(nums[ind] == 0) return Integer.MAX_VALUE; 
+    public int jump(int[] nums){
+        int n = nums.length;
+        if(n == 1) return 0;
+        int currReach = 0;
+        int maxReach = 0;
+        int jump = 0;
 
-        if(dp[ind] != -1) return dp[ind];
-        int best = Integer.MAX_VALUE; 
+        for(int i = 0; i < n; i++) {
+            maxReach = Math.max(maxReach, i + nums[i]);
 
-        for(int i = 1; i <= nums[ind]; i++){
-            int pick = minJump(ind+i,nums,n,dp);
-            if(pick != Integer.MAX_VALUE) {
-                best = Math.min(best,1 + pick);
+            if(maxReach >= n-1){
+                return jump + 1;
+            }
+
+            if(i == currReach){
+                if(maxReach > currReach) {
+                    jump++;
+                    currReach = maxReach;
+                }
             }
         }
-        dp[ind] = best;
-        return dp[ind];
+
+        return jump;
     }
-    public int jump(int[] nums) {
-        int n = nums.length;
-        int[] dp = new int[n];
-        Arrays.fill(dp, -1);
-        return minJump(0,nums,n,dp);
-    }
+    
 }
