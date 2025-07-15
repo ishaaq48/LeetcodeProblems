@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0118-pascals-triangle) |
@@ -550,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0803-cheapest-flights-within-k-stops) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
