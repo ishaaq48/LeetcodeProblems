@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0967-minimum-falling-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0803-cheapest-flights-within-k-stops](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0967-minimum-falling-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0854-making-a-large-island) |
+| [0967-minimum-falling-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
