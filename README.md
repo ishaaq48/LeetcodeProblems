@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
