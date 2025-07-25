@@ -1,30 +1,25 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        Map<String, Integer> dp = new HashMap<>();
-        return find(0, nums, target, nums.length, dp);
-    }
+        int totalSum = 0;
+        for(int n : nums)
+            totalSum += n;
 
-    public int find(int i, int[] nums, int target, int n, Map<String, Integer> dp){
-        String key = i + "," + target;
+        int[] dp = new int[2 * totalSum + 1];
 
-        if(dp.containsKey(key))
-            return dp.get(key);
+        dp[nums[0] + totalSum] = 1;
+        dp[-nums[0] + totalSum] += 1;
 
-        if(i == n){
-            if(target == 0)
-                return 1;
-            else 
-                return 0;
+        for(int i = 1; i < nums.length; i++) {
+            int[]curr = new int[2 * totalSum + 1];
+            for(int sum = -totalSum; sum <= totalSum; sum++) {
+                if(dp[sum + totalSum] > 0) {
+                    curr[sum + nums[i] + totalSum] += dp[sum + totalSum]; 
+                    curr[sum - nums[i] + totalSum] += dp[sum + totalSum]; 
+                }
+            }
+            dp = curr;
         }
-        
-        int pick = find(i+1, nums, target-nums[i], n, dp);
-        int notPick = find(i+1, nums, target+nums[i], n, dp);
 
-        dp.put(key, pick + notPick);
-        return dp.get(key);
+        return Math.abs(target) > totalSum ? 0 : dp[target + totalSum];
     }
 }
-
-
-// pick target - 1
-// notpick target + 1
