@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0868-push-dominoes) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
