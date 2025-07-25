@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0695-max-area-of-island) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0868-push-dominoes) |
