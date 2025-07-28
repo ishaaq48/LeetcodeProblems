@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0018-4sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
