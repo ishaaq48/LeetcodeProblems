@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3483-alternating-groups-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3483-alternating-groups-ii) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3643-zero-array-transformation-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Hash Table
 |  |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0493-reverse-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0493-reverse-pairs) |
 | [2434-design-a-number-container-system](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1753-path-with-minimum-effort](https://github.com/ishaaq48/LeetcodeProblems/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ishaaq48/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0493-reverse-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
