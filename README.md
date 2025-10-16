@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ishaaq48/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
